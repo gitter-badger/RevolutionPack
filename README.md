@@ -1,5 +1,7 @@
 #ATLauncher Pack Code: RevolutionPack
 
+[![Join the chat at https://gitter.im/Haggle1996/RevolutionPack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Haggle1996/RevolutionPack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Revolution Pack
 
 Can you rebuild civilization after the Revolution?
